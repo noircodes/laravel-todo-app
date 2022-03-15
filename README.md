@@ -28,7 +28,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=todo
+DB_DATABASE=laravel_todo_app
 DB_USERNAME=root
 DB_PASSWORD=
 ```
